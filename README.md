@@ -1,4 +1,4 @@
-# Medical-Appointment-system
+# Medical-Appointment-System Flask Project
 
 A comprehensive, integrated a medical appointment software designed to manage all the aspects of a medical operations
 
